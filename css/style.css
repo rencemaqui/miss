@@ -19,6 +19,11 @@ button{
   border-radius: 15px;
   width: 100px;
 }
+#choice{
+  margin-top: 30px;"
+}
+
+
 #yes{
   background-color: #00ff7f;
 }
@@ -32,4 +37,6 @@ button{
 #sap{
   margin-top: 90px;
 }
-
+#clr{
+  color: black;
+}

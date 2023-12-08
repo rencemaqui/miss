@@ -5,5 +5,9 @@ function yesFunc() {
 }
 
 function noFunc() {
-  document.getElementById("message").innerHTML = "ah hindi? sge sge, aus aus";
+  document.getElementById("message").innerHTML = "ah hindi? sge sge, aus aus.";
 }
+
+/*function clrFunc() {
+document.getElementById("message").innerHTML = "";
+}*/
