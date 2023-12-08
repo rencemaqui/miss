@@ -1,0 +1,35 @@
+/* Add all your styles here */
+
+
+body{
+  margin: auto;
+  justify-content: center;
+  text-align: center;
+  background-color: #d3d3d3;
+}
+
+h3{
+  margin: 2px;
+}
+
+button{
+  
+  color: white;
+  border:none;
+  border-radius: 15px;
+  width: 100px;
+}
+#yes{
+  background-color: #00ff7f;
+}
+#no{
+  background-color: #dc143c;
+}
+
+#message{
+  font-size: 80px;
+}
+#sap{
+  margin-top: 90px;
+}
+
